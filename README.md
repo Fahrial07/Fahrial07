@@ -3,9 +3,10 @@
 -💬 Ask me about Programming
   <br>
 -📫 How to reach me: 
+    <br>
     📞 085641739560
-    📩 alifahrialanwar@gmail.com
-    📩 fahrialvirtual@gmail.com 
+    <br>
+    📩 alifahrialanwar@gmail.com <b>Or</b> fahrialvirtual@gmail.com 
 
 <!--
 **Fahrial07/Fahrial07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
