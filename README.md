@@ -1,4 +1,4 @@
-### <span style="text-align:center">Hi there 👋 My Name Ali Fahrial Anwar - I am a Web Development </span>
+### Hi there 👋 My Name Ali Fahrial Anwar - I am a Web Development 
 
 <hr>
 
