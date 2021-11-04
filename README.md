@@ -1,4 +1,6 @@
-### Hi there 👋 My Name Ali Fahrial Anwar - I am a Web Development
+<span style="text-align:center;">### Hi there 👋 My Name Ali Fahrial Anwar - I am a Web Development<span>
+
+<hr>
 
 -💬 Ask me about Programming
   <br>
