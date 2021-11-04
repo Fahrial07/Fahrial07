@@ -1,4 +1,11 @@
-### Hi there 👋 My Name Ali Fahrial Anwar
+### Hi there 👋 My Name Ali Fahrial Anwar - I am a Web Development
+
+-💬 Ask me about Programming
+  <br>
+-📫 How to reach me: 
+    📞 085641739560
+    📩 alifahrialanwar@gmail.com
+    📩 fahrialvirtual@gmail.com 
 
 <!--
 **Fahrial07/Fahrial07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
