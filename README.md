@@ -8,7 +8,7 @@
     <br>
     📞 085641739560
     <br>
-    📩 alifahrialanwar@gmail.com <b>Or</b> fahrialvirtual@gmail.com 
+    📩 alifahrialanwar@gmail.com <b>Or</b> fahrialvirtual@gmail.com | alifahrialanwar.work@gmail.com
     
 
 <!--
